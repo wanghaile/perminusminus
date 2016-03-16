@@ -15,8 +15,14 @@ Per-- is a toolkit of AveragedPerceptron (Freund and Schapire, 1999) for path La
 Features
 
 Simple and efficient
+
 Multiple usage: path labeling, path finding, sequence labeling and classification
+
 Can provide n-best outputs
+
 Can provide "mar.ginal score"
+
 Can provide alpha (forward) values and beta (backward) values using forward-backward algorithm
+
 Open source
+
